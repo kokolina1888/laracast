@@ -3,39 +3,11 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Home page</title>
-	<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Lato:100">
-	<style>
-        body {
-            margin: 0;
-            padding: 0;
-            width: 100%;
-            height: 100%;
-            color: #B0BEC5;
-            display: table;
-            font-weight: 100;
-            font-family: 'Lato';
-        }
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css">
 
-        .container {
-            text-align: center;
-            display: table-cell;
-            vertical-align: middle;
-        }
-
-        .content {
-            text-align: center;
-            dispplay: inline-block;
-        }
-
-        .title {
-            font-size: 96px;
-            margin-bottom: 40px;
-        }
-
-        .quote {
-            font-size: 24px;
-        }
-    </style>
+<script src="//code.jquery.com/jquery-3.1.1.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <body>
 <div class="container">
